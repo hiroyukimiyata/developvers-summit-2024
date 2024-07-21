@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--wknd--hlxsites.hlx.page/
-- Live: https://main--wknd--hlxsites.hlx.live/
+- Preview: https://main--developvers-summit-2024--hiroyukimiyata.hlx.page/
+- Live: https://main--developvers-summit-2024--hiroyukimiyata.hlx.live/
 
 ## Installation
 
